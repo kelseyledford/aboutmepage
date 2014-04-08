@@ -1,0 +1,76 @@
+#container {
+	font-family: Garamond, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+	text-align: center;
+	width: 1000px;
+	margin: 0 auto;
+}
+h1 {
+	clear: both;
+	margin-top: 30px;
+	margin-bottom: 10px;
+	font-family: 'Parisienne', cursive;
+	color: aquamarine;
+	text-shadow: -1px 0 mediumaquamarine, 0 1px mediumaquamarine, 1px 0 mediumaquamarine, 0 -1px mediumaquamarine;
+	font-size: 75px;
+}
+#columnR {
+	float: right;
+	width: 25%;
+}
+#KelseyPic {
+	width: 190px;
+	height: 259px;
+	border-radius: 5px;
+}
+h3 {
+	font-family: "Arial Narrow", Arial, "Helvetica Condensed", Helvetica, sans-serif;
+	color: aquamarine;
+	font-size: 25px;
+}
+input {
+	padding: 10px;
+}
+input[type="submit"]{
+	background: tomato;
+	color: white;
+	margin-bottom: 10px;
+}
+.socialMedia {
+	height: 50px;
+	width: 50px;
+	margin-top: 10px;
+}
+
+#columnL {
+	float: left;
+	width: 25%;
+}
+img {
+	width: 115px;
+	height: 115px;
+}
+
+#columnM {
+	width: 40%;
+	padding-top: 25px;
+	margin: auto;
+}
+#helloBox {
+	background-color: tomato;
+	color: white;
+	font-family: "Arial Narrow", Arial, "Helvetica Condensed", Helvetica, sans-serif;
+	border-radius: 10px;
+	margin-left: 50px;
+	margin-right: 50px;
+	padding-bottom: 4px;
+}
+h2 {
+	font-size: 30px;
+	padding-top: 15px;
+	margin-bottom: -10px;
+}
+#list {
+	font-family: 'Parisienne', cursive;
+	font-size: 26px;
+	margin-bottom: -10px;
+}
